@@ -1,0 +1,7 @@
+{
+  "name": "LyricStudio AI",
+  "description": "A professional-grade songwriting assistant that generates lyrics based on your preferences and transforms them into AI-generated vocal tracks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
